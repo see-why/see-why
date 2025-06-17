@@ -4,7 +4,7 @@ Welcome to my GitHub!
 I'm a software engineer passionate about writing clean code, designing systems, and architecting solutions that scale.
 
 I love working on:  
--⚡️ High-performance backend systems  
+- ⚡️ High-performance backend systems  
 - 🔁 Data-driven and distributed systems
 - 🧩 Algorithmic and creative problem solving 
 - 🤖 AI tools that enhance code
