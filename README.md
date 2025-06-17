@@ -35,9 +35,9 @@ I love working on:
 
 ## 📈 GitHub Stats
 
-![Osita's GitHub stats](https://github-readme-stats.vercel.app/api?username=see-why&show_icons=true&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=see-why&theme=radical)
+
+![Osita's GitHub stats](https://github-readme-stats.vercel.app/api?username=see-why&show_icons=true&theme=radical)
 
 ![Profile views](https://komarev.com/ghpvc/?username=see-why&color=blueviolet)
 
