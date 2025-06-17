@@ -39,6 +39,7 @@ I love working on:
 
 ![Osita's GitHub stats](https://github-readme-stats.vercel.app/api?username=see-why&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=see-why&theme=radical)
+
 ![Profile views](https://komarev.com/ghpvc/?username=see-why&color=blueviolet)
 
 ---
@@ -56,7 +57,7 @@ I love working on:
 
 ## 🤝 Let's connect!
 
-If you're working on interesting projects or want to collaborate, feel free to reach out!
+If you're working on interesting projects or would like to collaborate, please don't hesitate to reach out!
 
 ---
 
