@@ -28,7 +28,7 @@ I love working on:
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Sidekiq](https://img.shields.io/badge/Sidekiq-DC382D?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Sidekiq](https://img.shields.io/badge/Sidekiq-DC382D?style=for-the-badge&logo=sidekiq&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
