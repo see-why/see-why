@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Osita Cyril Iyadi 👋
 
 Welcome to my GitHub!  
