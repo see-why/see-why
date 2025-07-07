@@ -13,11 +13,11 @@ I love working on:
 
 ## 🚀 Projects
 
+- [🤖 ActiveRecordLite](https://github.com/see-why/ActiveRecordLite) — a Lightweight ORM inspired by ActiveRecord, built from scratch in Ruby.
+- [🤖 Andi AI](https://github.com/see-why/andi) — an AI assistant that fixes code issues and extends functionality intelligently.
 - [🔐 JWT Token Utilities](https://github.com/see-why/chill_jwt) — Robust utilities for working with JWT tokens.
 - [📡 UDP Packet Parser](https://github.com/see-why/chill_network_stack) — parse, analyse, and respond to UDP packets in Ruby.
 - [🧭 Maze Solver in Python](https://github.com/see-why/Maze-Runner) — Classic pathfinding and maze algorithms.
-- [🤖 Andi AI](https://github.com/see-why/andi) — an AI assistant that fixes code issues and extends functionality intelligently.
-- [🤖 ActiveRecordLite](https://github.com/see-why/ActiveRecordLite) — a Lightweight ORM inspired by ActiveRecord, built from scratch in Ruby.
 
 ---
 
