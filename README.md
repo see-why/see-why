@@ -19,6 +19,7 @@ I love working on:
 - [🔐 JWT Token Utilities](https://github.com/see-why/chill_jwt) — Robust utilities for working with JWT tokens.
 - [📡 UDP Packet Parser](https://github.com/see-why/chill_network_stack) — parse, analyse, and respond to UDP packets in Ruby.
 - [🧭 Maze Solver in Python](https://github.com/see-why/Maze-Runner) — Classic pathfinding and maze algorithms.
+- [Caching Proxy Server](https://img.shields.io/badge/status-WIP-yellow) - A CLI tool that starts a server, which will forward requests to the actual server and cache the responses for future requests.
 
 ---
 
@@ -52,7 +53,6 @@ I love working on:
 | Project | Status | Description |
 |---------|--------|-------------|
 | Shift Case | ![WIP](https://img.shields.io/badge/status-WIP-yellow) | A VS Code extension to transform text into all kinds of cases. |
-| Caching Proxy Server | ![WIP](https://img.shields.io/badge/status-WIP-yellow) | A CLI tool that starts a caching proxy server, it will forward requests to the actual server and cache the responses |
 | Redis | ![Ongoing](https://img.shields.io/badge/status-ongoing-blue) | Exploring Redis data structures, advanced use cases, and pub/sub. |
 | WhatsApp for Food Ordering | ![Exploring](https://img.shields.io/badge/status-exploring-lightgrey) | Chat-based frontend interface for ordering food via WhatsApp. |
 | Euler Project | ![Ongoing](https://img.shields.io/badge/status-ongoing-green) | Solving Project Euler problems to sharpen algorithmic thinking. |
