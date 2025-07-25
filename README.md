@@ -53,6 +53,7 @@ I love working on:
 | Project | Status | Description |
 |---------|--------|-------------|
 | Shift Case | ![WIP](https://img.shields.io/badge/status-WIP-yellow) | A VS Code extension to transform text into all kinds of cases. |
+| HR Hub | ![WIP](https://img.shields.io/badge/status-WIP-yellow) | A web application to buy HR template documents. |
 | Redis | ![Ongoing](https://img.shields.io/badge/status-ongoing-blue) | Exploring Redis data structures, advanced use cases, and pub/sub. |
 | WhatsApp for Food Ordering | ![Exploring](https://img.shields.io/badge/status-exploring-lightgrey) | Chat-based frontend interface for ordering food via WhatsApp. |
 | Euler Project | ![Ongoing](https://img.shields.io/badge/status-ongoing-green) | Solving Project Euler problems to sharpen algorithmic thinking. |
