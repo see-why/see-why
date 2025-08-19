@@ -19,7 +19,8 @@ I love working on:
 - [🔐 JWT Token Utilities](https://github.com/see-why/chill_jwt) — Robust utilities for working with JWT tokens.
 - [📡 UDP Packet Parser](https://github.com/see-why/chill_network_stack) — A CLI tool that parses, analyses, and responds to UDP packets in Ruby.
 - [🧭 Maze Solver in Python](https://github.com/see-why/Maze-Runner) — Classic pathfinding and maze algorithms.
-- [Caching Proxy Server](https://github.com/see-why/caching-proxy) - A CLI tool which will forward requests to a server and cache the responses for future requests.
+- [Caching Proxy Server](https://github.com/see-why/caching-proxy) - A CLI tool which forwards requests to a server and caches the responses for future requests.
+- [Gator]https://github.com/see-why/caching-proxy) - An RSS Feed aggregator.
 
 ---
 
