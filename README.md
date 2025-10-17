@@ -1,5 +1,7 @@
 # Hi there, I'm Osita Cyril Iyadi 👋
 
+[Microsoft Learn Profile!](https://learn.microsoft.com/en-us/users/ositaiyadi-1761/transcript/7xpr2ijzlxq9jyn?wt.mc_id=certnurture_eml14_email_wwl&source=docs)
+
 Welcome to my GitHub!  
 I'm a software engineer passionate about writing clean code, designing systems, and architecting solutions that scale.
 
