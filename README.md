@@ -45,7 +45,7 @@ I love working on:
 
 ![Osita's GitHub stats](https://github-readme-stats.vercel.app/api?username=see-why&show_icons=true&theme=radical)
 
-![Profile views](https://komarev.com/ghpvc/?username=see-why&color=blueviolet)
+![Profile views](https://hits.sh/github.com/see-why.svg?label=Profile%20views&color=blueviolet)
 
 ---
 
