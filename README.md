@@ -53,18 +53,9 @@ Some of these are in private repositories; more on [bitbyandy.com](https://www.b
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=see-why&theme=radical&card_width=720)
+<img src="https://streak-stats.demolab.com/?user=see-why&theme=radical&card_width=720" alt="GitHub Streak" width="99%">
 
-<a href="https://github.com/see-why/github-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/see-why/github-stats/generated/overview.svg#gh-dark-mode-only">
-    <img src="https://raw.githubusercontent.com/see-why/github-stats/generated/overview.svg#gh-light-mode-only" alt="Osita's GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/see-why/github-stats/generated/languages.svg#gh-dark-mode-only">
-    <img src="https://raw.githubusercontent.com/see-why/github-stats/generated/languages.svg#gh-light-mode-only" alt="Most used languages">
-  </picture>
-</a>
+<a href="https://github.com/see-why/github-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/see-why/github-stats/generated/overview.svg#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/see-why/github-stats/generated/overview.svg#gh-light-mode-only" alt="Osita's GitHub stats" width="50%"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/see-why/github-stats/generated/languages.svg#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/see-why/github-stats/generated/languages.svg#gh-light-mode-only" alt="Most used languages" width="50%"></picture></a>
 
 ![Profile views](https://hits.sh/github.com/see-why.svg?label=Profile%20views&color=blueviolet)
 
