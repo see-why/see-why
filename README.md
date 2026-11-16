@@ -53,7 +53,7 @@ Some of these are in private repositories; more on [bitbyandy.com](https://www.b
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=see-why&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=see-why&theme=radical&card_width=720)
 
 <a href="https://github.com/see-why/github-stats">
   <picture>
