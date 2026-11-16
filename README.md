@@ -67,7 +67,7 @@ Some of these are in private repositories; more on [bitbyandy.com](https://www.b
 
 | Project | Status | Description |
 |---------|--------|-------------|
-| Priority Talent | ![Ongoing](https://img.shields.io/badge/status-ongoing-blue) | Recruiting platform: recruiter workspace, candidate portal, inbox, referrals. |
+| [Priority Talent](https://www.prioritytalent.co) | ![Ongoing](https://img.shields.io/badge/status-ongoing-blue) | Recruiting platform: recruiter workspace, candidate portal, inbox, referrals. |
 | [BananaReel](https://bananareel.ng) | ![Ongoing](https://img.shields.io/badge/status-ongoing-blue) | Nollywood review aggregator with critic and fan scores. |
 | Doc Hub | ![Exploring](https://img.shields.io/badge/status-exploring-lightgrey) | A web application to upload and sell documents and templates. |
 | Redis | ![Ongoing](https://img.shields.io/badge/status-ongoing-blue) | Exploring Redis data structures, advanced use cases, and pub/sub. |
