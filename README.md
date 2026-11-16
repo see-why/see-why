@@ -13,7 +13,21 @@ I love working on:
 
 ---
 
-## 🚀 Projects
+## 🏢 Recent work
+
+I run [BitByAndy](https://www.bitbyandy.com), a one-person software studio. Lately:
+
+- **Priority Talent** — recruiting platform (Rails API + Next.js): recruiter workspace, candidate portal, live inbox over WebSockets, manual job recommendations, in-app CV preview and a talent referral hub.
+- **BananaReel** — Nollywood review aggregator (Next.js): critic-based Peel Score, weighted fan Bunch Score, phone-verified fan reviews, moderation and SEO.
+- **Doc Hub** — secure document marketplace (Rails 8 + React) with Stripe payments and watermarked downloads.
+- **Baby Shower Feud** — a party game shipped as a web, Android and iOS app from one codebase.
+- [**Shift Case**](https://github.com/BitByAndy/shift_case) — a VS Code extension that toggles selected text between upper and lower case.
+
+Most of these are in private repositories; details are on [bitbyandy.com](https://www.bitbyandy.com).
+
+---
+
+## 🚀 Open-source projects
 
 - [🤖 ActiveRecordLite](https://github.com/see-why/ActiveRecordLite) — A Lightweight ORM inspired by ActiveRecord, built from scratch in Ruby.
 - [🤖 RspecLite](https://github.com/see-why/rspec-lite.git) — A Lightweight Test Framework inspired by RSpec, built from scratch in Ruby.
@@ -55,7 +69,8 @@ I love working on:
 
 | Project | Status | Description |
 |---------|--------|-------------|
-| Shift Case | ![WIP](https://img.shields.io/badge/status-WIP-yellow) | A VS Code extension to transform text into all kinds of cases. |
+| Priority Talent | ![Ongoing](https://img.shields.io/badge/status-ongoing-blue) | Recruiting platform: recruiter workspace, candidate portal, inbox, referrals. |
+| BananaReel | ![Ongoing](https://img.shields.io/badge/status-ongoing-blue) | Nollywood review aggregator with critic and fan scores. |
 | Doc Hub | ![Exploring](https://img.shields.io/badge/status-exploring-lightgrey) | A web application to upload and sell documents and templates. |
 | Redis | ![Ongoing](https://img.shields.io/badge/status-ongoing-blue) | Exploring Redis data structures, advanced use cases, and pub/sub. |
 | WhatsApp Catering App | ![Exploring](https://img.shields.io/badge/status-exploring-lightgrey) | Chat-based frontend interface for ordering food via WhatsApp. |
