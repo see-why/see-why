@@ -55,7 +55,12 @@ Some of these are in private repositories; more on [bitbyandy.com](https://www.b
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=see-why&theme=radical)
 
-![Osita's GitHub stats](https://github-readme-stats.vercel.app/api?username=see-why&show_icons=true&theme=radical)
+<a href="https://github.com/see-why/github-stats">
+  <img src="https://github.com/see-why/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="Osita's GitHub stats" />
+  <img src="https://github.com/see-why/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="Osita's GitHub stats" />
+  <img src="https://github.com/see-why/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="Most used languages" />
+  <img src="https://github.com/see-why/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="Most used languages" />
+</a>
 
 ![Profile views](https://hits.sh/github.com/see-why.svg?label=Profile%20views&color=blueviolet)
 
