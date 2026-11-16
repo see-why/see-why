@@ -21,7 +21,7 @@ I run [BitByAndy](https://www.bitbyandy.com), a one-person software studio. Late
 - **BananaReel** — Nollywood review aggregator (Next.js): critic-based Peel Score, weighted fan Bunch Score, phone-verified fan reviews, moderation and SEO.
 - **Doc Hub** — secure document marketplace (Rails 8 + React) with Stripe payments and watermarked downloads.
 - **Baby Shower Feud** — a party game shipped as a web, Android and iOS app from one codebase.
-- [**Shift Case**](https://github.com/BitByAndy/shift_case) — a VS Code extension that toggles selected text between upper and lower case.
+- [**Shift Case**](https://github.com/BitByAndy/shift_case) — a VS Code extension that toggles selected text (or the word at the cursor) between upper and lower case. [Install from the Marketplace](https://marketplace.visualstudio.com/items?itemName=bitbyandy.shift-case).
 
 Most of these are in private repositories; details are on [bitbyandy.com](https://www.bitbyandy.com).
 
